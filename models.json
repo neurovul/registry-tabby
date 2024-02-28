@@ -112,7 +112,7 @@
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
     "provider_url": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF",
     "urls": [
-      "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/blob/main/deepseek-coder-6.7b-instruct.Q8_0.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q8_0.gguf"
     ],
     "sha256": "02cd6ce7ccec670cf6d3dd147932f13e584f9e964d5a3297a74b401b658471ae"
   },
@@ -123,7 +123,7 @@
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
     "provider_url": "https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF",
     "urls": [
-      "https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF/blob/main/deepseek-coder-33b-instruct.Q8_0.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF/resolve/main/deepseek-coder-33b-instruct.Q8_0.gguf"
     ],
     "sha256": "86529f8eefc87a80bd20d62229ee5acdc32d5773be8575a143bc491924865c21"
   }
