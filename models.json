@@ -106,7 +106,7 @@
     "sha256": "a2f82242ac5e465037cbf1ed754f04f0be044ee196e1589905f9e4dcd0e6559d"
   },
   {
-    "name": "DeepseekCoder-33B",
+    "name": "DeepseekCoder-33B-Q8",
     "license_name": "Deepseek License",
     "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
@@ -116,26 +116,26 @@
     ],
     "sha256": "9b9210b7de8c26d94773146613ee86844a714aae997223355bb520927627feff"
   },
-  {
-    "name": "DeepseekCoder-Instruct-6.7B",
+    {
+    "name": "DeepseekCoder-33B-Q6_K",
     "license_name": "Deepseek License",
     "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
-    "provider_url": "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF",
+    "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-base",
     "urls": [
-      "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q8_0.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-33B-base-GGUF/resolve/main/deepseek-coder-33b-base.Q6_K.gguf"
     ],
-    "sha256": "02cd6ce7ccec670cf6d3dd147932f13e584f9e964d5a3297a74b401b658471ae"
+    "sha256": "073afa29d989bb896244d7bde474ac19410e2c62bbab8fbaad02be7b5e5b9473"
   },
-  {
-    "name": "DeepseekCoder-Instruct-33B",
+    {
+    "name": "DeepseekCoder-33B-Q5_K_M",
     "license_name": "Deepseek License",
     "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
-    "provider_url": "https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF",
+    "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-base",
     "urls": [
-      "https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF/resolve/main/deepseek-coder-33b-instruct.Q8_0.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-33B-base-GGUF/resolve/main/deepseek-coder-33b-base.Q5_K_M.gguf"
     ],
-    "sha256": "86529f8eefc87a80bd20d62229ee5acdc32d5773be8575a143bc491924865c21"
-  }
+    "sha256": "1fa635b1c5fc50e8a8c9a962d446914587f22c722cb9e7d87591d8da33120c9e"
+  },
 ]
