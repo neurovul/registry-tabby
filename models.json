@@ -139,14 +139,14 @@
     "sha256": "1fa635b1c5fc50e8a8c9a962d446914587f22c722cb9e7d87591d8da33120c9e"
   },
   {
-    "name": "CodeFuse-DeepSeek-33B-GGUF-Q8",
+    "name": "CodeFuse-DeepSeek-33B-GGUF-Q5_K_M",
     "license_name": "Deepseek License",
     "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
     "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-base",
     "urls": [
-      "https://huggingface.co/LoneStriker/CodeFuse-DeepSeek-33B-GGUF/resolve/main/CodeFuse-DeepSeek-33B-Q8_0.gguf"
+      "https://huggingface.co/LoneStriker/CodeFuse-DeepSeek-33B-GGUF/resolve/main/CodeFuse-DeepSeek-33B-Q5_K_M.gguf"
     ],
-    "sha256": "abfe43fc4cd1b868e8d995cf254c0915bd5cd69118bcbbba740d08521a3a23fc"
+    "sha256": "c3efba7b525f85f88a82f16fa134cc4d2dabdbf4138f4ebf6e707f6e16611372"
   }
 ]
