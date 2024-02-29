@@ -138,7 +138,6 @@
     ],
     "sha256": "1fa635b1c5fc50e8a8c9a962d446914587f22c722cb9e7d87591d8da33120c9e"
   },
-  ,
   {
     "name": "CodeFuse-DeepSeek-33B-GGUF-Q8",
     "license_name": "Deepseek License",
